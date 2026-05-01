@@ -23,8 +23,8 @@
 
 <p align="center">
 <a href="https://twitter.com/kayesmahmud30"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://linkedin.com/in/kayesmahmud40"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://fb.com/kayesmahmud30"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://linkedin.com/in/kayesmahmud30"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://fb.com/kayesmahmud40"><img src="https://cdn.simpleicons.org/facebook" height="40"/></a>
 <a href="https://instagram.com/kayesmahmud30"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 <a href="https://discord.gg/kayesmahmud30"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
