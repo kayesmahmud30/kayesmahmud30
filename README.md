@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayesmahmud30&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayesmahmud30&theme=tokyonight&hide_border=true" height="170"/> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayesmahmud30&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayesmahmud30&theme=tokyo-night&hide_border=true" height="170"" />
 </p>
 
 ---
